@@ -1,6 +1,13 @@
 {
     "available_videos": {
         "Hillside Hermitage": {
+            "xDbKBWgIk4Y": {
+                "title": "You Cannot Let Go of What You Keep Picking Up",
+                "thumbnails": {
+                    "maxresdefault": "https://i.ytimg.com/vi/xDbKBWgIk4Y/maxresdefault.jpg"
+                },
+                "duration": "10:45"
+            },
             "qS7zOhKQgEI": {
                 "title": "The First Instructions to a Newly Ordained Monk",
                 "thumbnails": {
@@ -3713,6 +3720,13 @@
             }
         },
         "Samanadipa Hermitage": {
+            "ClmUnGNWYLY": {
+                "title": "Understanding the Basis for Striving | Buddhist Meditation",
+                "thumbnails": {
+                    "maxresdefault": "https://i.ytimg.com/vi/ClmUnGNWYLY/maxresdefault.jpg"
+                },
+                "duration": "12:13"
+            },
             "BnQrGm_Lxks": {
                 "title": "Is Stream-Entry an Experience?",
                 "thumbnails": {
